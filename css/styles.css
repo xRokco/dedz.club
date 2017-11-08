@@ -1,0 +1,57 @@
+body {
+	font-family: 'Muli';
+	font-weight: 300;
+	/*background-color: rgba(255, 128, 20, 0.1);*/
+}
+
+.container {
+	max-width: 1080px;
+}
+
+.hiddenlist {
+	list-style: none;
+	font-size: 1.3em;
+	margin-bottom: 0;
+}
+
+.ovo {
+	font-family: 'Ovo';	
+}
+
+li {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.divider {
+	border: 1px solid #ff1414;
+	margin: 1rem;
+	width: 95%;
+}
+
+a {
+	color: #ff1414;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+p {
+	font-weight: 400;
+}
+
+h4 {
+	font-family: 'Ovo';	
+}
+
+.four {
+	background-color: white;
+	padding: 20px;
+}
+
+.six {
+	margin-top: 5%;
+}
+
+img {
+	width: 100%;
+}
